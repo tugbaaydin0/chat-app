@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967866746012",
+    "project_id": "chate-c87dc",
+    "storage_bucket": "chate-c87dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967866746012:android:befab6b672181426c11959",
+        "android_client_info": {
+          "package_name": "com.example.chate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967866746012-n7ougekce49bge6henfj8a90p5sk7ht0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTk0uD-H0y2M4WFoO3osJijM4zD9wrys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967866746012-n7ougekce49bge6henfj8a90p5sk7ht0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

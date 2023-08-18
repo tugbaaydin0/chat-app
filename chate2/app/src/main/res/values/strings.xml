@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">chate</string>
+    <string name="tekrar_ho_geldin">Tekrar Hoşgeldin</string>
+    <string name="giri_i_in_devam_edin">Giriş için devam edin</string>
+    <string name="email">Email</string>
+    <string name="ifre">Şifre</string>
+    <string name="giri">Giriş</string>
+    <string name="yeni_hesap_olu_tur">Yeni Hesap Oluştur</string>
+    <string name="foto_raf_ekle">Fotoğraf Ekle</string>
+    <string name="sim">İsim</string>
+    <string name="ifre_tekrar">Şifre Tekrar</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="kullan_c_se_iniz">Kullanıcı Seçiniz</string>
+    <string name="mesaj_yaz">Mesaj Yaz</string>
+    <string name="evrimi_i">Çevrimiçi</string>
+</resources>
